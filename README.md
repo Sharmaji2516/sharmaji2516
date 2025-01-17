@@ -17,11 +17,13 @@
 
 - 🌐 My Portfolio [https://sharmaji2516.github.io/sharmaji25161/](https://sharmaji2516.github.io/sharmaji25161/)
 
+- ⚡ Fun fact **I think I am a good learner**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lav-sharma-a9919b2ab." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lav-sharma-a9919b2ab." height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lav-sharma-a9919b2ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lav-sharma-a9919b2ab" height="30" width="40" /></a>
 <a href="https://instagram.com/lav_sharma_2516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lav_sharma_2516" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@lavsharma_cor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lavsharma_cor" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lavsharma_cor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lavsharma_cor" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lav2516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lav2516" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/lavshareagu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lavshareagu" height="30" width="40" /></a>
 </p>
