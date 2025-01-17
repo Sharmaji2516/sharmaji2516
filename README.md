@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **lavsharma.cor@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SwqQvwdg_FRUqI5XjNY4dkKhXEo31wrh/view?usp=drive_link](https://drive.google.com/file/d/1SwqQvwdg_FRUqI5XjNY4dkKhXEo31wrh/view?usp=drive_link)
+- 📄 Check my resume [https://drive.google.com/file/d/1mWYujzsUVR-Db6QuT4P_8hbJ32UZEle5/view?usp=drive_link](https://drive.google.com/file/d/1mWYujzsUVR-Db6QuT4P_8hbJ32UZEle5/view?usp=drive_link)
+
+- 🌐 My Portfolio [https://sharmaji2516.github.io/sharmaji25161/](https://sharmaji2516.github.io/sharmaji25161/)
 
 - ⚡ Fun fact **I think I am a good learner**
 
