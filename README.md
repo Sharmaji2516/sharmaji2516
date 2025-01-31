@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lavsharma.cor@gmail.com**
 
-- 📄 Check my resume [https://drive.google.com/file/d/1mWYujzsUVR-Db6QuT4P_8hbJ32UZEle5/view?usp=drive_link](https://drive.google.com/file/d/1mWYujzsUVR-Db6QuT4P_8hbJ32UZEle5/view?usp=drive_link)
+- 📄 - 📄 Check my resume [https://drive.google.com/file/d/1vpKBSFNfWIkIuVbstt3s_Mn-HEPRjaRN/view?usp=drive_link](https://drive.google.com/file/d/1vpKBSFNfWIkIuVbstt3s_Mn-HEPRjaRN/view?usp=drive_link)
 
 - 🌐 My Portfolio [https://sharmaji2516.github.io/sharmaji25161/](https://sharmaji2516.github.io/sharmaji25161/)
 
