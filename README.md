@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Lav Sharma</h1>
+<h1 align="center">Hi 👋, I'm Lav </h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="sharmlav" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
