@@ -66,7 +66,10 @@
     </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaji2516&show_icons=true&locale=en&layout=compact&langs_count=8&hide=c,csharp" alt="Top languages" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaji2516&show_icons=true&locale=en&layout=compact&langs_count=8&hide=c,csharp" alt="Top languages" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmaji2516&show_icons=true&locale=en" alt="GitHub stats" /></p>
+
 
